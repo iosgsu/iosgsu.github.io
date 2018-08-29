@@ -1,0 +1,390 @@
+{
+    "past-meetings": [
+        {
+            "semester": "Spring 2018",
+            "meetings": [
+                {
+                    "month": 1,
+                    "day": 16,
+                    "subject": "Sound Board",
+                    "description": "Introduction to iOS development" 
+                },
+                {
+                    "month": 1,
+                    "day": 23,
+                    "subject": "Guess the Number",
+                    "description": "Introduction to iOS development" 
+                },
+                {
+                    "month": 1,
+                    "day": 30,
+                    "subject": "No Meeting",
+                    "description": "College of Computing Career Fair" 
+                },
+                {
+                    "month": 2,
+                    "day": 6,
+                    "subject": "About Me",
+                    "description": "Autolayout & Interface Builder" 
+                },
+                {
+                    "month": 2,
+                    "day": 13,
+                    "subject": "Reminders",
+                    "description": "Intro to UITableView" 
+                },
+                {
+                    "month": 2,
+                    "day": 20,
+                    "subject": "Pin Drop",
+                    "description": "MapKit and Data Persistence" 
+                },
+                {
+                    "month": 2,
+                    "day": 27,
+                    "subject": "Simon Says",
+                    "description": "Animations" 
+                },
+                {
+                    "month": 3,
+                    "day": 6,
+                    "subject": "Networking",
+                    "description": "" 
+                },
+                {
+                    "month": 3,
+                    "day": 13,
+                    "subject": "Using Multiple View Controllers",
+                    "description": "" 
+                },
+                {
+                    "month": 3,
+                    "day": 20,
+                    "subject": "No Meeting",
+                    "description": "Spring Break" 
+                },
+                {
+                    "month": 3,
+                    "day": 27,
+                    "subject": "App Challenge",
+                    "description": "" 
+                },
+                {
+                    "month": 4,
+                    "day": 3,
+                    "subject": "TBA",
+                    "description": "" 
+                },
+                {
+                    "month": 4,
+                    "day": 10,
+                    "subject": "TBA",
+                    "description": "" 
+                },
+                {
+                    "month": 4,
+                    "day": 17,
+                    "subject": "Demo Day",
+                    "description": "Food, Presentations, and Prizes!" 
+                }
+            ]
+        },
+        {
+            "semester": "Fall 2017",
+            "meetings": [
+                {
+                    "month": 8,
+                    "day": 29,
+                    "subject": "Tap Game",
+                    "description": "Introduction to iOS development - Part 1" 
+                },
+                {
+                    "month": 9,
+                    "day": 5,
+                    "subject": "Guess the Number",
+                    "description": "Introduction to iOS development - Part 2" 
+                },
+                {
+                    "month": 9,
+                    "day": 12,
+                    "subject": "Meeting Canceled",
+                    "description": "" 
+                },
+                {
+                    "month": 9,
+                    "day": 19,
+                    "subject": "About Me",
+                    "description": "Autolayout & Interface Builder" 
+                },
+                {
+                    "month": 9,
+                    "day": 26,
+                    "subject": "No Meeting",
+                    "description": "College of Computing Career Fair" 
+                },
+                {
+                    "month": 10,
+                    "day": 3,
+                    "subject": "Shopping List",
+                    "description": "Intro to UITableView" 
+                },
+                {
+                    "month": 10,
+                    "day": 10,
+                    "subject": "No Meeting",
+                    "description": "Fall Break" 
+                },
+                {
+                    "month": 10,
+                    "day": 17,
+                    "subject": "Colors List",
+                    "description": "Intro to Multi-Screen Apps" 
+                },
+                {
+                    "month": 10,
+                    "day": 24,
+                    "subject": "Pin Drop",
+                    "description": "Data Persistence & MapKit" 
+                },
+                {
+                    "month": 10,
+                    "day": 31,
+                    "subject": "Tunes App",
+                    "description": "Networking & JSON Decoding" 
+                },
+                {
+                    "month": 11,
+                    "day": 7,
+                    "subject": "News App",
+                    "description": "Special Challenge" 
+                },
+                {
+                    "month": 11,
+                    "day": 14,
+                    "subject": "Learning",
+                    "description": "Animations" 
+                },
+                {
+                    "month": 11,
+                    "day": 21,
+                    "subject": "No Meeting",
+                    "description": "Thanksgiving Break" 
+                },
+                {
+                    "month": 11,
+                    "day": 28,
+                    "subject": "TBA",
+                    "description": "TBA" 
+                },
+                {
+                    "month": 12,
+                    "day": 5,
+                    "subject": "No Meeting",
+                    "description": "Finals week" 
+                }
+            ]
+        },
+        {
+            "semester": "Spring 2017",
+            "meetings": [
+                {
+                    "month": 1,
+                    "day": 17,
+                    "subject": "Tap Game",
+                    "description": "Introduction to iOS" 
+                },
+                {
+                    "month": 1,
+                    "day": 24,
+                    "subject": "No Meeting",
+                    "description": "" 
+                },
+                {
+                    "month": 1,
+                    "day": 31,
+                    "subject": "About Me App",
+                    "description": "Autolayout, Tab Bars, and Navigation Controllers" 
+                },
+                {
+                    "month": 2,
+                    "day": 7,
+                    "subject": "Reminders App",
+                    "description": "Table Views" 
+                },
+                {
+                    "month": 2,
+                    "day": 14,
+                    "subject": "Tech Talk hosted by MailChimp",
+                    "description": "Intro to Core Data" 
+                },
+                {
+                    "month": 2,
+                    "day": 21,
+                    "subject": "Places I’ve Been App",
+                    "description": "MapKit and CoreData" 
+                },
+                {
+                    "month": 2,
+                    "day": 28,
+                    "subject": "Chat App",
+                    "description": "Firebase" 
+                },
+                {
+                    "month": 3,
+                    "day": 7,
+                    "subject": "Photos App",
+                    "description": "Collection Views and Photos Framework" 
+                },
+                {
+                    "month": 3,
+                    "day": 14,
+                    "subject": "Flappy Buzz",
+                    "description": "SpriteKit Crash Course" 
+                },
+                {
+                    "month": 3,
+                    "day": 21,
+                    "subject": "No Meeting",
+                    "description": "Spring Break" 
+                },
+                {
+                    "month": 3,
+                    "day": 28,
+                    "subject": "Build Your Own App",
+                    "description": "Special Challenge" 
+                },
+                {
+                    "month": 4,
+                    "day": 4,
+                    "subject": "Build Your Own App",
+                    "description": "Special Challenge"  
+                },
+                {
+                    "month": 4,
+                    "day": 11,
+                    "subject": "Build Your Own App Session",
+                    "description": "" 
+                },
+                {
+                    "month": 4,
+                    "day": 18,
+                    "subject": "Demo Day",
+                    "description": "" 
+                },
+                {
+                    "month": 4,
+                    "day": 25,
+                    "subject": "No Meeting",
+                    "description": "Finals Week"  
+                },
+                {
+                    "month": 5,
+                    "day": 2,
+                    "subject": "No Meeting",
+                    "description": "Finals Week"  
+                }
+            ]
+        },
+        {
+            "semester": "Fall 2016",
+            "meetings": [
+                {
+                    "month": 8,
+                    "day": 30,
+                    "subject": "Introduction",
+                    "description": "" 
+                },
+                {
+                    "month": 9,
+                    "day": 6,
+                    "subject": "Guessing App",
+                    "description": "" 
+                },
+                {
+                    "month": 9,
+                    "day": 13,
+                    "subject": "AirWatch Presentation",
+                    "description": "Optionals" 
+                },
+                {
+                    "month": 9,
+                    "day": 20,
+                    "subject": "No Meeting",
+                    "description": "Career Fair Week" 
+                },
+                {
+                    "month": 9,
+                    "day": 27,
+                    "subject": "Calculator App",
+                    "description": "" 
+                },
+                {
+                    "month": 10,
+                    "day": 4,
+                    "subject": "ScoreKeeper App",
+                    "description": "MapKit and CoreData" 
+                },
+                {
+                    "month": 10,
+                    "day": 11,
+                    "subject": "No Meeting",
+                    "description": "Student Recess" 
+                },
+                {
+                    "month": 10,
+                    "day": 18,
+                    "subject": "Notes App",
+                    "description": "Part 1" 
+                },
+                {
+                    "month": 10,
+                    "day": 25,
+                    "subject": "Notes App",
+                    "description": "Part 2"  
+                },
+                {
+                    "month": 11,
+                    "day": 1,
+                    "subject": "Notes App",
+                    "description": "Part 3"  
+                },
+                {
+                    "month": 11,
+                    "day": 8,
+                    "subject": "Weather App",
+                    "description": "Part 1" 
+                },
+                {
+                    "month": 11,
+                    "day": 15,
+                    "subject": "Weather App",
+                    "description": "Part 2"  
+                },
+                {
+                    "month": 11,
+                    "day": 22,
+                    "subject": "No Meeting",
+                    "description": "Thanksgiving Break" 
+                },
+                {
+                    "month": 11,
+                    "day": 29,
+                    "subject": "Ice Cream App",
+                    "description": "Showcase" 
+                },
+                {
+                    "month": 12,
+                    "day": 6,
+                    "subject": "No Meeting",
+                    "description": "Dead Week"  
+                },
+                {
+                    "month": 12,
+                    "day": 13,
+                    "subject": "No Meeting",
+                    "description": "Finals Week"  
+                }
+            ]
+        }
+    ]
+}
