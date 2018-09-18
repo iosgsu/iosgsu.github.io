@@ -1,4 +1,4 @@
-# iOS Club gh-pages site
+# iOS Workshop gh-pages site
 
 Jekyll site for hosting iOS tutorials.
 
@@ -21,7 +21,7 @@ permalink: /(hyphenated main tutorial title followed by part and number)/
 layout: tutorial_pages
 part: 2
 title: Setting Up Your View
-permalink: /guess-the-number-part-2/ 
+permalink: /guess-the-number-part-2/
 ---
 ```
 
@@ -58,7 +58,7 @@ This is a stand alone .md file with no further links.
             "month": (1 - 12),
             "day": (1 - 31),
             "subject": "Either the name of the app or No Meeting if there is no meeting",
-            "description": "A description of the concepts being taught. If there is no meeting then a reason for why there is no meeting" 
+            "description": "A description of the concepts being taught. If there is no meeting then a reason for why there is no meeting"
         }
     ]
 }

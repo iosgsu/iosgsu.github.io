@@ -234,7 +234,7 @@ body .bg:nth-child(n+3) {
     .checks img {
         width: 33px;
     }
-    
+
     .schedule-column {
         margin-top: 25px;
     }
@@ -249,7 +249,7 @@ body .bg:nth-child(n+3) {
     .opener h1 {
         font-size: 1.9rem;
     }
-    
+
     .info h3 {
         font-size: 1.52rem;
     }
@@ -364,7 +364,7 @@ body .bg:nth-child(n+3) {
 }
 
 .copyright {
-    margin: 34px 0;
+    margin: 17px 0;
     margin-left: 12px;
     display: inline-block;
     color: #90949C;
@@ -383,13 +383,13 @@ body .bg:nth-child(n+3) {
 }
 
 .seal {
-    width: 80px;
+    width: 40px;
     display: inline-block;
 }
 
 .icons {
     text-align: right;
-    margin: 24px 0;
+    margin: 8px 0;
 }
 
 .icons a {
@@ -440,7 +440,7 @@ body .bg:nth-child(n+3) {
         padding: 0.5rem 0;
         display: flex;
     }
-    
+
     .second-nav .navbar-brand {
         font-weight: 700;
         color: rgba(0,0,0,.9);

@@ -1,14 +1,14 @@
---- 
+---
 layout: master
 ---
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
-    
+
     // find and display the next meeting
     // Jekyll sites are static/compiled, so we have to check for the current date at display-time in the browser.
 
-    $(document).ready(function() {    
+    $(document).ready(function() {
         var meetings = Array.from($('#current-schedule').children())
         meetings.reverse()
 
@@ -60,14 +60,14 @@ layout: master
         <div class="schedule-column schedule-meta col" style="max-width: 435px;">
             <div style="margin: 0 auto; margin-bottom: 15px;">
                 <h1 class="row post-header heading">Schedule</h1>
-                <p class="no-mar">We host beginner-friends meetings every week at 6:30pm in Klaus 1456.</p><br>
+                <p class="no-mar">We host beginner-friends meetings every week at 6:00pm at LaunchGSU.</p><br>
                 <p class="no-mar">Subscribe to our <a href="webcal://p48-calendars.icloud.com/published/2/M5Pgm5bwbvW5nPVP611TT8PD5UoYrSv1BdKDu5rFhfs_LqHjQYZeEM0yBocWuFUn46fDcJVFz82bbD2Z6tJGn3ray9CQ4mkg5uaQvY9lCgk">shared calendar</a> to stay updated, and join our <a href="{{ site.facebook_url }}" onclick="openFacebook()" target="_blank">Facebook group</a> for announcements.</p><br>
             </div>
-            
+
             <div style="max-width: 425px; margin: 0 auto; margin-bottom: 10px;">
                 <h1 class="row heading" style="font-size: 1.5em; ">Next Meeting</h1>
             </div>
-            
+
             <ul class="calender">
                 <li class="meeting" id="next-meeting" style="margin: 0 auto;">
                     <div class="row entry">
@@ -85,16 +85,16 @@ layout: master
                 </li>
                 <p id="no-next-meeting" style="display: none;">Weekly meetings will resume next semester. Enjoy your break! Until then, you can walk through our <a href="{{site.data.tutorials.side-nav.first.folderitems.first.page_url}}">online tutorials</a>.</p>
             </ul>
-            
+
         </div>
         <div class="schedule-column  col-lg-6">
-            
+
             {% capture current-year %}{{'now' | date: '%y'}}{% endcapture %}
-            
+
             <div style="max-width: 425px; margin: 0 auto; margin-bottom: 10px;">
                 <h1 class="row heading" style="font-size: 1.5em; ">{{ site.data.schedules.current-schedule.semester }}</h1>
             </div>
-            
+
             <ul class="calender" id="current-schedule" style="max-width: 400px; margin: 0 auto;">
                 {% for entry in site.data.schedules.current-schedule.meetings %}
                 <li class="meeting" id="{{ '20' | append: current-year | append: '-' | append: entry.month | append: '-' | append: entry.day }}">
@@ -113,7 +113,7 @@ layout: master
                 </li>
                 {% endfor %}
             </ul>
-            
+
             <div style="max-width: 420px; margin: 15px auto; text-align: right;"><p><a href="/schedule/archive/">Archive of Past Schedules</a></p></div>
         </div>
     </div>
