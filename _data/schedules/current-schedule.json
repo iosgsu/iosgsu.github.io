@@ -21,8 +21,8 @@
         {
             "month": 10,
             "day": 11,
-            "subject": "TBA",
-            "description": ""
+            "subject": "Intro to UITableView",
+            "description": "Table Views are a common component in iOS apps. Learn how to harness them by building a Reminders app."
         },
         {
             "month": 10,
