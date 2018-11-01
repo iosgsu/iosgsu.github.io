@@ -26,15 +26,21 @@
         },
         {
             "month": 10,
+            "day": 18,
+            "subject": "Data Persistence with UserDefaults",
+            "description": "Learn how to save your data between launches by building a Pin Drop app (bonus content: MapKit and Gesture Recognizers!)."
+        },
+        {
+            "month": 10,
             "day": 25,
-            "subject": "TBA",
-            "description": ""
+            "subject": "Networking with Codable",
+            "description": "Learn how to use URLSession to request data from online APIs, and how to parse the response using Swift's Codable protocol."
         },
         {
             "month": 11,
             "day": 1,
-            "subject": "TBA",
-            "description": ""
+            "subject": "No Workshop",
+            "description": "Come by during the regular meeting time to work on your own apps or just hang out!"
         },
         {
             "month": 11,
