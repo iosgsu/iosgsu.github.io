@@ -45,14 +45,14 @@
         {
             "month": 11,
             "day": 8,
-            "subject": "TBA",
-            "description": ""
+            "subject": "Using Multiple View Controllers",
+            "description": "Learn how to pass data between multiple View Controllers by building a 'Colors' app. (bonus content: UICollectionView!)"
         },
         {
             "month": 11,
             "day": 15,
-            "subject": "TBA",
-            "description": ""
+            "subject": "Intro to Firebase",
+            "description": "Learn how to build a Chat app that uses Firebase's Realtime Database to store data in the cloud."
         },
         {
             "month": 11,
@@ -63,8 +63,8 @@
         {
             "month": 11,
             "day": 29,
-            "subject": "TBA",
-            "description": ""
+            "subject": "News App Challenge",
+            "description": "Test your knowledge by making a news app."
         },
     ]
 }
