@@ -18,7 +18,7 @@ description: An iOS development workshop hosted by PantherHackers at Georgia Sta
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ios.pantherhackers.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
-slack_url: http://pantherhackers.slack.com/
+slack_url: https://pantherhackers.slack.com/app_redirect?channel=C2H5E8K5Y
 github: iosgsu
 
 # Build settings
