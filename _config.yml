@@ -13,13 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: PantherHackers iOS Workshop
+title: PH iOS Workshop
 description: An iOS development workshop hosted by PantherHackers at Georgia State University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ios.pantherhackers.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 slack_url: https://pantherhackers.slack.com/app_redirect?channel=C2H5E8K5Y
 github: iosgsu
+copyright-years: 2018-2019
+
+event:
+  day: Thursday
+  time: 6:00 PM
+  room: Classroom South room 405
 
 # Build settings
 markdown: kramdown
