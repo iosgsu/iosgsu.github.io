@@ -95,10 +95,12 @@ body {
     height: 480px;
 }
 
-img.devices {
-    max-width: 100%;
-    text-align: center;
-    padding: 0 15px;
+img.hero {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    max-width: 500px;
 }
 
 .card-text {
@@ -112,6 +114,10 @@ body .bg:nth-child(n+3) {
 
 .bg {
     padding: 6rem 0 6rem;
+}
+
+.bg:nth-of-type(1) {
+    padding-bottom: 0;
 }
 
 .white {
@@ -196,6 +202,10 @@ body .bg:nth-child(n+3) {
         text-align: center
     }
 
+    .bg:nth-of-type(1) {
+      padding: 1rem 0 3rem;
+    }
+
     .opener h1 {
         margin-top: 4rem;
         font-size: 2.2rem;
@@ -220,7 +230,7 @@ body .bg:nth-child(n+3) {
     .checks .col-lg:not(:last-child) {
         margin-bottom: 1.2rem;
     }
-}
+  }
 
 /* Small screens (custom cutoff) */
 @media (max-width: 767px) {
@@ -251,7 +261,7 @@ body .bg:nth-child(n+3) {
 /* Smaller devices (custom cutoff) */
 @media (max-width: 475px) {
     .bg {
-        padding: 4.8rem 0 4.8rem;
+        padding: 3rem 0 3rem;
     }
 
     .opener h1 {
@@ -464,6 +474,14 @@ body .bg:nth-child(n+3) {
 
     .second-nav-collapsible {
         display: block;
+    }
+
+    img.hero {
+      max-width: 400px;
+    }
+
+    .opener {
+      margin-top: -90px;
     }
 
 }
