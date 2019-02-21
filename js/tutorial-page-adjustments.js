@@ -1,9 +1,8 @@
 $( document ).ready(function() {
 
-    var tag = $(".post-content").children().last().children();
-    if (tag.length > 0) {    
+    var tag = $(".post-content").children().last().children().last();
+    if (tag.text() == "Next" && tag.length > 0) {
         $(".pill").append(tag);
-        $(".pill").children().text("Next");
     } else {
         $(".pill").remove();
     }
