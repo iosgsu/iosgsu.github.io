@@ -64,8 +64,8 @@
         {
             "month": 4,
             "day": 11,
-            "subject": "TBD",
-            "description": "You mean I'm supposed to come up with something EVERY week?"
+            "subject": "No Meeting",
+            "description": ""
         },
         {
             "month": 4,
@@ -77,7 +77,7 @@
             "month": 4,
             "day": 25,
             "subject": "TBD",
-            "description": "Special Event???"
-        },
+            "description": ""
+        }
     ]
 }
